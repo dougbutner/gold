@@ -159,6 +159,8 @@ WAX / GOLD
 # LEGAL AGREEMENT
 100% of the proceeds of our token sale will go to charity. No profit will be taken from this token sale. Purchasing GOLD does not count as a donation, and is not tax-deductable. No promise of any returns is mentioned anywhere in our materials. 
 
+# Credits
+Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
 
 # 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
 
