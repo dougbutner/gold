@@ -79,7 +79,7 @@ WAX / GOLD
 
 # The 54 Moons
 
-| Moon | GOLD Price (in WAX) |🌑/🌝 | 
+| Moon | GOLD Price (in WAX) | 🚀 | 
 | --- | --- | --- | 
 | 1 | 0.0000000001 | 🌝 | 
 | 2 | 0.0000000001 | 🌝 | 
