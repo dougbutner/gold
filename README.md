@@ -1,5 +1,5 @@
 # GOLD on WAX
-Learn about the GOLD token on the WAX Blockchain
+Learn about the GOLD token on WAX Blockchain
 
 
 
@@ -89,9 +89,9 @@ Learn about the GOLD token on the WAX Blockchain
 
 
 
-# Sell Orders
+# Sell Orders 📈
 
-100% minted supply already sent to alcor
+100% minted supply already sent to Alcor [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) + [Swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
 
 Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. 
 
@@ -156,11 +156,12 @@ WAX / GOLD
 
 
 
-# LEGAL AGREEMENT
+# LEGAL AGREEMENT 📜
 100% of the proceeds of our token sale will go to charity. No profit will be taken from this token sale. Purchasing GOLD does not count as a donation, and is not tax-deductable. No promise of any returns is mentioned anywhere in our materials. 
 
-# Credits
+# Gratitude 🙏
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
+Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.pro/)
 
 # 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
 
