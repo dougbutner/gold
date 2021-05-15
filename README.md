@@ -152,7 +152,7 @@ WAX / GOLD
 53316291173	1  
 86267571272	1  
 
-> Note: All sell orders for with a price of less than .00000001 WAX / GOLD are put into the [liquidity pool]
+> Note: All sell orders for with a price of less than .00000001 WAX / GOLD are put into the [liquidity pool](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
 
 
 
@@ -165,4 +165,4 @@ Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.
 
 # 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
 
-# Market Trading (No Fees) 🟡 [WAX/GOLD MARKET]
+# Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
