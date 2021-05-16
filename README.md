@@ -1,6 +1,12 @@
 # GOLD on WAX
 Learn about the GOLD token on WAX Blockchain
 
+# [#GOLDTRIBE](https://ctt.ac/5vVnB)
+100% of the proceeds of our token sale will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). 
+
+This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in a defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
+
+We'll let this WAX sit (and stake) until a date where we announce the formal donation to our Gaia Tribe NGO (Peru) and other charities we'll be sending the rest to. We may unstake from the liquidity pool periodically to raise more funds, also to be distributed publicly. 
 
 
 # 🟡 GOLD Economic Brief
@@ -17,14 +23,13 @@ Learn about the GOLD token on WAX Blockchain
 
 # [Logo](https://ipfs.io/ipfs/QmQUwQzYxa349Hudyb3LbbpmpGDdtqYERiXViBj9ckQ47B)
 
-![](https://ipfs.io/ipfs/QmQUwQzYxa349Hudyb3LbbpmpGDdtqYERiXViBj9ckQ47B)
- 
+![GOLD Token Logo](https://ipfs.io/ipfs/QmQUwQzYxa349Hudyb3LbbpmpGDdtqYERiXViBj9ckQ47B)
 
 
 
 # [Small Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
 
-![](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+![GOLD Token Logo Small](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
 
 
 
@@ -95,7 +100,7 @@ Learn about the GOLD token on WAX Blockchain
 
 Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. 
 
-WAX / GOLD
+# WAX / GOLD
 
 1	86267571272  
 1	53316291173  
@@ -155,9 +160,8 @@ WAX / GOLD
 > Note: All sell orders for with a price of less than .00000001 WAX / GOLD are put into the [liquidity pool](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
 
 
-
 # LEGAL AGREEMENT 📜
-100% of the proceeds of our token sale will go to charity. No profit will be taken from this token sale. Purchasing GOLD does not count as a donation, and is not tax-deductable. No promise of any returns is mentioned anywhere in our materials. 
+ Purchasing GOLD does not count as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. 
 
 # Gratitude 🙏
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
@@ -165,4 +169,6 @@ Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.
 
 # 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
 
-# Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
+# 🚀📈 Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
+
+# Tweet [#GOLDTRIBE](https://ctt.ac/5vVnB)
