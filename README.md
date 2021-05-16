@@ -46,9 +46,9 @@ We'll let this WAX sit (and stake) until a date where we announce the formal don
 | 7 | 0.0000000027 | 🌝 | 
 | 8 | 0.0000000070 | 🌝 | 
 | 9 | 0.0000000185 | 🌝 | 
-| 10 | 0.0000000484 | 🌘 | 
-| 11 | 0.0000001268 | 🌑 | 
-| 12 | 0.0000003321 | 🌑 | 
+| 10 | 0.0000000484 | 🌝 | 
+| 11 | 0.0000001268 | 🌝 | 
+| 12 | 0.0000003321 | 🌘 | 
 | 13 | 0.0000008696 | 🌑 | 
 | 14 | 0.0000022768 | 🌑 | 
 | 15 | 0.0000059608 | 🌑 | 
@@ -171,4 +171,5 @@ Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.
 
 # 🚀📈 Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
 
-# Tweet [#GOLDTRIBE](https://ctt.ac/5vVnB)
+# Click for Pre-composed Tweet: [#GOLDTRIBE](https://ctt.ac/5vVnB)
+or tweet/gram/share #GOLDTRIBE any way you like!
