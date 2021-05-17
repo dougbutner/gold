@@ -1,6 +1,9 @@
 # GOLD on WAX
 Learn about the GOLD token on WAX Blockchain
 
+
+[Join in on Telegram](https://t.me/ToMoonForEarth)
+
 # [#GOLDTRIBE](https://ctt.ac/5vVnB)
 100% of the proceeds of our token sale will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). 
 
