@@ -173,3 +173,7 @@ Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.
 
 # Click for Pre-composed Tweet: [#GOLDTRIBE](https://ctt.ac/5vVnB)
 or tweet/gram/share #GOLDTRIBE any way you like!
+
+
+[Join in on Telegram](https://t.me/ToMoonForEarth)
+
