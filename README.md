@@ -4,12 +4,13 @@ Learn about the GOLD token on WAX Blockchain
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
 
-# [#GOLDTRIBE](https://ctt.ac/5vVnB)
-100% of the proceeds of our token sale will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). 
+# [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Gaia Tribe + other charities with metalic-math coins
 
-This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in a defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
+## These metalic math coins (crowned by the GOLD token) offer novelty as the first known use of mirrored Fibbonacci series, and holding GOLD offers returns in other metalic chrity coins. (TBA)
 
-We'll let this WAX sit (and stake) until a date where we announce the formal donation to our Gaia Tribe NGO (Peru) and other charities we'll be sending the rest to. We may unstake from the liquidity pool periodically to raise more funds, also to be distributed publicly. 
+100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). 
+
+We'll let received WAX sit (and stake) until a date where we announce the formal donation to our upcoming Gaia Tribe NGO (Peru) and other charities and community projects we'll be sending the rest to. All actions with these funds will be announced to the public. 
 
 
 # 🟡 GOLD Economic Brief
@@ -33,6 +34,7 @@ We'll let this WAX sit (and stake) until a date where we announce the formal don
 # [Small Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
 
 ![GOLD Token Logo Small](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+
 
 
 
@@ -101,7 +103,13 @@ We'll let this WAX sit (and stake) until a date where we announce the formal don
 
 100% minted supply already sent to Alcor [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) + [Swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
 
-Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. 
+[gaialovefund](https://wax.bloks.io/account/gaialovefund). 
+
+This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in a defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
+
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model. Organizer Douglas bought back 36b (15% Max Supply) of GOLD to donate to gaialovefund, as all the fund's gold was sold in the Fibonacci listings.
+
+Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
 
 # WAX / GOLD
 
@@ -164,7 +172,7 @@ Sell orders are according to the Golden Ratio, as approximated by the Fibonacci 
 
 
 # LEGAL AGREEMENT 📜
- Purchasing GOLD does not count as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. 
+Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders.  
 
 # Gratitude 🙏
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
