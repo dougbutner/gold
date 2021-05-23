@@ -1,16 +1,14 @@
 # GOLD on WAX
-Learn about the GOLD token on WAX Blockchain
+Learn about the GOLD token on WAX Blockchain 
 
-
-[Join in on Telegram](https://t.me/ToMoonForEarth)
+## Quick Links
+[Project Website](http://tomoonfor.earth) | [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) | [Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [Telegram](https://t.me/ToMoonForEarth)
 
 # [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Gaia Tribe + other charities with metalic-math coins
 
-## These metalic math coins (crowned by the GOLD token) offer novelty as the first known use of mirrored Fibbonacci series, and holding GOLD offers returns in other metalic chrity coins. (TBA)
+## These metalic math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency, and holding GOLD offers returns in other metalic chrity coins. (TBA Jun 21, 2021)
 
-100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). 
-
-We'll let received WAX sit (and stake) until a date where we announce the formal donation to our upcoming Gaia Tribe NGO (Peru) and other charities and community projects we'll be sending the rest to. All actions with these funds will be announced to the public. 
+100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 60% of proceeds to our Peruvian Non-profit (Gaia Tribe NGO) and 40% to other charities + community projects, like permaculture, food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
 
 
 # 🟡 GOLD Economic Brief
@@ -36,6 +34,9 @@ We'll let received WAX sit (and stake) until a date where we announce the formal
 ![GOLD Token Logo Small](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
 
 
+# To Moon For Earth
+
+GOLD was created as 
 
 
 # The 54 Moons 🧑‍🚀
@@ -107,7 +108,7 @@ We'll let received WAX sit (and stake) until a date where we announce the formal
 
 This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in a defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
-This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model. Organizer Douglas bought back 36b (15% Max Supply) of GOLD to donate to gaialovefund, as all the fund's gold was sold in the Fibonacci listings.
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model. Organizer Douglas bought back 36b (15% Max Supply) of GOLD to donate to gaialovefund, as all the fund's gold was sold in the Fibonacci listings. 
 
 Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
 
@@ -178,6 +179,13 @@ Purchasing GOLD does not legally qualify as a donation, and is not tax-deductabl
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
 Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.pro/)
 
+# Donate 🌱
+
+Donations to [gaialovefund](https://wax.bloks.io/account/gaialovefund) are appreciated in any token. 
+
+We'll let received donations and proceeds from GOLD sales sit (and stake) until a date where we announce the formal donation.  All actions with these funds will be announced to the public ahead of time. 
+
+
 # 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
 
 # 🚀📈 Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
@@ -187,4 +195,3 @@ or tweet/gram/share #GOLDTRIBE any way you like!
 
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
-
