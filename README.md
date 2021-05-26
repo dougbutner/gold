@@ -36,7 +36,7 @@ Learn about the GOLD token on WAX Blockchain
 
 # To Moon For Earth
 
-GOLD was created as a means to catalyze re-incorporation of the human collective into the Gaia collective through funding small-scale permaculture projects (we also launched [Perma.rocks](Perma.rocks)) that bring humans in close contact with nature.
+GOLD was created as a means to catalyze re-incorporation of the human collective into the Gaia collective through funding small-scale permaculture projects (we also launched [Perma.rocks](https://perma.rocks)) that bring humans in close contact with nature.
 
 This connecting spirit, including our shared goal of reaching another Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
 
