@@ -104,11 +104,9 @@ This connecting spirit, including our shared goal of reaching another Moon, ties
 
 # Sell Orders 📈
 
-100% minted supply already sent to Alcor [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) + [Swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
+100% minted supply already sent to Alcor [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) + [Swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token) via the [gaialovefund](https://wax.bloks.io/account/gaialovefund) account. 
 
-[gaialovefund](https://wax.bloks.io/account/gaialovefund). 
-
-This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in a defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
+This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in the defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
 This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model. Organizer Douglas bought back 36b (15% Max Supply) of GOLD to donate to gaialovefund, as all the fund's gold was sold in the Fibonacci listings. 
 
