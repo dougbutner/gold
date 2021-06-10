@@ -36,7 +36,7 @@ Learn about the GOLD token on WAX Blockchain
 
 # To Moon For Earth
 
-GOLD was created as a means to catalyze re-incorporation of the human collective into the Gaia collective through funding small-scale permaculture projects (we also launched [Perma.rocks](https://perma.rocks)) that bring humans in close contact with nature.
+GOLD was created as a means to catalyze re-incorporation of the human collective into the Gaia collective through funding small-scale permaculture projects (we also launched [Perma.rocks](https://perma.rocks)) that bring humans in close contact with nature. We hope to remind humanity that we are a living breathing part of the ecosystem, and we are an incredible and abundant living planet. 
 
 This connecting spirit, including our shared goal of reaching another Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
 
@@ -108,7 +108,7 @@ This connecting spirit, including our shared goal of reaching another Moon, ties
 
 This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in the defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
-This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model. Organizer Douglas bought back 36b (15% Max Supply) of GOLD to donate to gaialovefund, as all the fund's gold was sold in the Fibonacci listings. 
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one luck account picking up +30% total supply. Luckily, they dumped early, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund.    
 
 Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
 
@@ -169,7 +169,7 @@ Sell orders are according to the Golden Ratio, as approximated by the Fibonacci 
 53316291173	1  
 86267571272	1  
 
-> Note: All sell orders for with a price of less than .00000001 WAX / GOLD are put into the [liquidity pool](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
+> Note: All sell orders with a price of less than .00000001 WAX / GOLD are put into the [liquidity pool](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
 
 
 # LEGAL AGREEMENT 📜
