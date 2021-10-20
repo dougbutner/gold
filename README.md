@@ -8,7 +8,7 @@ Learn about the GOLD token on WAX Blockchain
 
 ## These metalic math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency, and holding GOLD offers returns in other metalic charity coins. (TBA)
 
-100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 60% of proceeds to our Peruvian Non-profit (Gaia Tribe NGO) and 40% to other charities + community projects, like permaculture, food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
+100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
 
 
 # 🟡 GOLD Economic Brief
@@ -41,7 +41,7 @@ GOLD was created as a means to catalyze re-incorporation of the human collective
 This connecting spirit, including our shared goal of reaching another Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
 
 
-# The 54 Moons 🧑‍🚀
+# The 54 Golden Moons 🧑‍🚀
 
 | Moon | GOLD Price (in WAX) | 🚀 | 
 | --- | --- | --- | 
