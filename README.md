@@ -38,10 +38,21 @@ Learn about the GOLD token on WAX Blockchain
 
 GOLD was created as a means to catalyze re-incorporation of the human collective into the Gaia collective through funding small-scale permaculture projects (we also launched [Perma.rocks](https://perma.rocks)) that bring humans in close contact with nature. We hope to remind humanity that we are a living breathing part of the ecosystem, and we are an incredible and abundant living planet. 
 
-This connecting spirit, including our shared goal of reaching another Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
+This connecting spirit, including our shared goal of reaching another Golden Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
+
+
+## Golden, Silver, and Bronze Moons 🌝🌚
+
+**Golden Moons** celebrate $GOLD token reaching a certian price in WAX. 
+
+**Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are currently being finalized. 
+
+**Bronze Moons** are yet to be announced, but will also be a reward for active economy participants. 
 
 
 # The 54 Golden Moons 🧑‍🚀
+
+*last two digits are insignificant*
 
 | Moon | GOLD Price (in WAX) | 🚀 | 
 | --- | --- | --- | 
