@@ -196,10 +196,25 @@ Donations to [gaialovefund](https://wax.bloks.io/account/gaialovefund) are appre
 
 We'll let received donations and proceeds from GOLD sales sit (and stake) until a date where we announce the formal donation.  All actions with these funds will be announced to the public ahead of time. 
 
+# Get $GOLD
 
-# 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
+## 💰🤑 DeFi (Instant Liquidity) 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold)
 
-# 🚀📈 Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
+## 🚀📈 Market Trading (No Fees) 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token)
+
+# Get $SILVER
+
+## 💰🤑 DeFi 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver)
+
+## 🚀📈 Market Trading 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/silver-silversilver_wax-eosio.token)
+
+# 📢  NEW 💰 $GOLDSIL LP token rewards  
+ 
+Hold $GOLDSIL to get Surprised with token rewards on the Full moons, and at random times. 
+
+Details to be announced. First rewards Nov 18, 2021
+
+## [🟡🔗 Get GOLDSIL LP Tokens](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=SILVER-silversilver)
 
 # Click for Pre-composed Tweet: [#GOLDTRIBE](https://ctt.ac/5vVnB)
 or tweet/gram/share #GOLDTRIBE any way you like!
