@@ -8,7 +8,7 @@ Learn about the GOLD token on WAX Blockchain
 
 ## These metalic math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency, and holding GOLD offers returns in other metalic charity coins. (TBA)
 
-100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
+100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth.  
 
 
 # 🟡 GOLD Economic Brief
@@ -45,7 +45,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 **Golden Moons** celebrate $GOLD token reaching a certian price in WAX. 
 
-**Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are currently being finalized. 
+**Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are currently being finalized, but you will get some payment every full moon. 
 
 **Bronze Moons** are yet to be announced, but will also be a reward for active economy participants. 
 
@@ -115,11 +115,11 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 # Sell Orders 📈
 
-100% minted supply already sent to Alcor [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) + [Swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token) via the [gaialovefund](https://wax.bloks.io/account/gaialovefund) account. 
+100% minted supply already sent to [Alcor Exchange's Spot Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) + [Swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token) via the [gaialovefund](https://wax.bloks.io/account/gaialovefund) account. 
 
 This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in the defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
-This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one luck account picking up +30% total supply. Luckily, they dumped early, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund.    
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund. Douglas has also ammassed a GOLD fortune, which will be used in part as a rewards base for experimental DeFi activities.    
 
 Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
 
@@ -194,7 +194,9 @@ Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.
 
 Donations to [gaialovefund](https://wax.bloks.io/account/gaialovefund) are appreciated in any token. 
 
-We'll let received donations and proceeds from GOLD sales sit (and stake) until a date where we announce the formal donation.  All actions with these funds will be announced to the public ahead of time. 
+# Promise 🔐
+
+We'll let received donations and proceeds from GOLD sales sit (and stake) in [gaialovefund](https://wax.bloks.io/account/gaialovefund) until a date where we announce the formal donation. Any spendature of these funds will be announced to the public ahead of time. 
 
 # Get $GOLD
 
@@ -208,16 +210,16 @@ We'll let received donations and proceeds from GOLD sales sit (and stake) until 
 
 ## 🚀📈 Market Trading 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/silver-silversilver_wax-eosio.token)
 
+  
 # 📢  NEW 💰 $GOLDSIL LP token rewards  
  
-Hold $GOLDSIL to get Surprised with token rewards on the Full moons, and at random times. 
-
-Details to be announced. First rewards Nov 18, 2021
+Hold $GOLDSIL to get token rewards on the Full moons, and at random times. 
 
 ## [🟡🔗 Get GOLDSIL LP Tokens](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=SILVER-silversilver)
 
-# Click for Pre-composed Tweet: [#GOLDTRIBE](https://ctt.ac/5vVnB)
-or tweet/gram/share #GOLDTRIBE any way you like!
+###  NGO Update: 
+
+We weren't (yet) able to secure our NGO in Peru as planned, but we are continuing in the direction of permacultural curation organization. 
 
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
