@@ -90,7 +90,7 @@ For daily SILVER rewards, get LP tokens on Alcor with following links then stake
 **Main Rewards Pools (Largest Reward pools)**
 
 [GOLDSIL - SILVER / GOLD](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=GOLD-goldgoldgold)  
-[WAXSIL - SILVER / WAX](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=WAX-eosio.token)  
+[WAXSILV - SILVER / WAX](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=WAX-eosio.token)  
 [WAXGOLD - GOLD / WAX](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)  
 
 **Family Reward Pools** 
