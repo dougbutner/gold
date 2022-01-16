@@ -1,12 +1,12 @@
-# GOLD on WAX
-Learn about the GOLD token on WAX Blockchain 
+# GOLD + SILVER on WAX
+Learn about the GOLD + SILVER tokens on WAX Blockchain 
 
 ## Quick Links
 [Project Website](http://tomoonfor.earth) | [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) | [Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [Telegram](https://t.me/ToMoonForEarth)
 
-# [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Gaia Tribe + other charities with metalic-math coins
+# [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture charities with metalic-math coins
 
-## These metalic math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency, and holding GOLD offers returns in other metalic charity coins. (TBA)
+## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. Holding GOLD offers returns in SILVER, and SILVER is a LP rewards token that can be [staked for more rewards](https://r.land/blu). (Details below)
 
 100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth.  
 
@@ -16,22 +16,33 @@ Learn about the GOLD token on WAX Blockchain
 ## Tech
 `eosio.token`-based [goldgoldgold](https://wax.bloks.io/account/goldgoldgold) on WAX blockchain
 
-## Token
+## Tokens
 
 🟡 GOLD is divisible up to 4 decimal places.
 
 ## Max Supply = # Grams of Gold on Earth = 244,000,000,000 🟡 GOLD 
 
 
-# [Logo](https://ipfs.io/ipfs/QmQUwQzYxa349Hudyb3LbbpmpGDdtqYERiXViBj9ckQ47B)
+# [Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
 
-![GOLD Token Logo](https://ipfs.io/ipfs/QmQUwQzYxa349Hudyb3LbbpmpGDdtqYERiXViBj9ckQ47B)
+![GOLD Token Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
 
 
+# 🥈 SILVER Economic Brief
 
-# [Small Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+## Tech
+`eosio.token`-based [silversilver](https://wax.bloks.io/account/silversilver) on WAX blockchain
 
-![GOLD Token Logo Small](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+## Tokens
+
+🥈 SILVER is divisible up to 4 decimal places.
+
+## Max Supply = # Grams of Silver on Earth = 1,740,000,000,000 SILVER 🥈
+
+
+# [Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+
+![SILVER Token Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/silver.png)
 
 
 # To Moon For Earth
@@ -48,6 +59,55 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 **Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are currently being finalized, but you will get some payment every full moon. 
 
 **Bronze Moons** are yet to be announced, but will also be a reward for active economy participants. 
+
+# Silver LP Rewards on [bludac.io](https://bludac.io/pools/community) + [r.land/blu](https://r.land/blu)
+
+Starting Jan 17, 2022, there will be quarterly (90 day) pools to reward GOLD and SILVER economy participants. These pools will INCREASE in output every year and quarter, creating more long-term stability than a front-loaded LP reward token. Each year the rewards will 4X, then the next year they will restart at 2x the original reward, and 4x again throughout the year. This is planned to continue until all SILVER has been distributed, with the model remaining open to improvements.
+
+| 2022 | Main Reward Pools | Family Pools | Community Pools | 
+| --- | --- | --- | --- |  
+| Q1 | 25,000,000 | 10,000,000 | 5,000,000 | 
+| Q2 | 50,000,000 | 20,000,000 | 10,000,000 | 
+| Q3 | 75,000,000 | 30,000,000 | 15,000,000 | 
+| Q4 | 100,000,000 | 40,000,000 | 20,000,000 | 
+
+
+| 2023 | Main Reward Pools | Family Pools | Community Pools | 
+| --- | --- | --- | --- |  
+| Q1 | 50,000,000 | 20,000,000 | 10,000,000 | 
+| Q2 | 100,000,000 | 40,000,000 | 20,000,000 | 
+| Q3 | 150,000,000 | 60,000,000 | 30,000,000 | 
+| Q4 | 200,000,000 | 80,000,000 | 40,000,000 | 
+
+> All rewards in SILVER and for EACH pair
+
+Future years will follow this 2X previous year start / 4X throughout year pattern
+
+## Supported LP pools (2022)
+
+For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.io](https://bludac.io/pools/community) or [r.land/blu](https://r.land/blu)
+
+**Main Rewards Pools (Largest Reward pools)**
+
+[GOLDSIL - SILVER / GOLD](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=GOLD-goldgoldgold)  
+[WAXSIL - SILVER / WAX](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=WAX-eosio.token)  
+[WAXGOLD - GOLD / WAX](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)  
+
+**Family Reward Pools** 
+
+[PURPBLU - BLUX / PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=BLUX-bluxbluxblux)  
+[WAXBLUX - BLUX / WAX](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token)  
+[WAXPURP - PURPLE / WAX](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token)  
+ 
+**Community Pools** 
+
+[BLUSILV - BLU / SILVER](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=BLU-bludactokens)  
+[BLUGOLD - BLU / GOLD](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=BLU-bludactokens)  
+
+Project Owner/Rep? Interested? Open a URTOKEN/SILVER pool + [Let us know](https://t.me/ToMoonForEarth)
+ 
+Community Tokens may change every quarter. Main + Family reward tokens can change every year, and be added (but not removed) each quarter.
+ 
 
 
 # The 54 Golden Moons 🧑‍🚀
@@ -184,7 +244,7 @@ Sell orders are according to the Golden Ratio, as approximated by the Fibonacci 
 
 
 # LEGAL AGREEMENT 📜
-Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders.  
+Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. Participants assume all risk for voluntarily participating in this mathematical experiment by interacting with project tokens.   
 
 # Gratitude 🙏
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
@@ -196,7 +256,7 @@ Donations to [gaialovefund](https://wax.bloks.io/account/gaialovefund) are appre
 
 # Promise 🔐
 
-We'll let received donations and proceeds from GOLD sales sit (and stake) in [gaialovefund](https://wax.bloks.io/account/gaialovefund) until a date where we announce the formal donation. Any spendature of these funds will be announced to the public ahead of time. 
+We'll let received donations and proceeds from GOLD sales sit (and stake) in [gaialovefund](https://wax.bloks.io/account/gaialovefund) until a date where we announce the formal donation. Any spendature of these funds will be announced to the public ahead of time on Telegram. 
 
 # Get $GOLD
 
