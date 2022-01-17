@@ -89,7 +89,7 @@ Future years will follow this 2X previous year start / 4X throughout year patter
 
 ## Quicksilver Pool 🧙‍♂️🥈
 
-Each period, a final "Stake SILVER for SILVER" pool is added to make the math Magic. This pool is deep and gleaming with SILVER - by the silver rat of all other period rewards combined. Total reward is is 41.421356237%, 1 / (1 + √2), one over the SILVER ratio. 
+Each period, a final "Stake SILVER for SILVER" pool is added to make the math Magic. This pool is deep and gleaming with SILVER - by the silver ratio of all other period rewards combined. Total reward is is 41.421356237%, 1 / (1 + √2), one over the SILVER ratio. 
 
 | Period | Quicksilver Pool Totals |
 | --- | --- | 
@@ -98,9 +98,7 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 | 22Q3 | TBD | 
 | 22Q4 | TBD | 
 | 23Q1 | TBD | 
-| 23Q2 | TBD | 
-| 23Q3 | TBD | 
-| 23Q4 | TBD | 
+
 
 > Algorithm may be updated for 22Q2. 
 
