@@ -58,7 +58,9 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 **Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are still being finalized, but you will get some payment every full moon of you have GOLD or GOLDSIL in your account. 
 
-![Silver will show up in your wallet every month if you have GOLD, no claim needed](images/gold-moon-example.png)
+![Silver will show up in your wallet every month if you have GOLD, no claim needed](images/silver-moon-example.png)
+
+![LP rewards were added a few months later](images/gold-moon-example.png)
 
 **Bronze Moons** are yet to be announced, but will also be a reward for active economy participants. 
 
@@ -84,6 +86,23 @@ Starting Jan 17, 2022, there will be quarterly (90 day) pools to reward GOLD and
 > All rewards in SILVER and for EACH pair
 
 Future years will follow this 2X previous year start / 4X throughout year pattern
+
+## Quicksilver Pool 🧙‍♂️🥈
+
+Each period, a final "Stake SILVER for SILVER" pool is added to make the math Magic. This pool is deep and gleaming with SILVER - by the silver rat of all other period rewards combined. Total reward is is 41.421356237%, 1 / (1 + √2), one over the SILVER ratio. 
+
+| Period | Quicksilver Pool Totals |
+| --- | --- | 
+| 22Q1 | 115m x 0.41421 = 47,634,559.6726 |  
+| 22Q2 | TBD | 
+| 22Q3 | TBD | 
+| 22Q4 | TBD | 
+| 23Q1 | TBD | 
+| 23Q2 | TBD | 
+| 23Q3 | TBD | 
+| 23Q4 | TBD | 
+
+> Algorithm may be updated for 22Q2. 
 
 ## Supported LP pools (2022)
 
