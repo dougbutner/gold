@@ -54,7 +54,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 ## Golden, Silver, and Bronze Moons 🌝🌚
 
-**Golden Moons** celebrate $GOLD token reaching a certian price in WAX. 
+**Golden Moons** celebrate $GOLD token reaching a certian price in WAX. (there isn't a reward, just celebration)
 
 **Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are currently being finalized, but you will get some payment every full moon. 
 
@@ -243,6 +243,13 @@ Sell orders are according to the Golden Ratio, as approximated by the Fibonacci 
 > Note: All sell orders with a price of less than .00000001 WAX / GOLD are put into the [liquidity pool](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token)
 
 
+# How is this raising money for permaculture? 🤔🌳
+GOLD was released to the public very cheaply, that is, below the minimum spot trading price of 0.00000001 WAX / GOLD. While this didn't help us raise initial funds, it did create a DeFi game that anyone could play for a few pennies. Currently, the gaialovefund account has 36 billion GOLD that was donated back, and the plan is to create a win-win-win economy using GOLD and SILVER and eventually cash out this GOLD slowly starting at the price of .00001, giving us over 100k USD to put towards permaculture. We kind of messed up selling GOLD so cheaply, but we also made an opportunity for more people to benefit in an amazing way. 
+
+# Can SILVER be sold to raise money for permaculture too? 🤔🌳
+With SILVER, we have another ratio (the SILVER Radio) to honor, and the original plan was to offer SILVER similarly to GOLD on the market using this new ratio.  With the failure of GOLD to raise more than 200 USD, we have decided to keep SILVER as a LP rewards token and decide later if/when there will be a public sale of SILVER. If there is a sale, it will be announced on our Telegram first.  
+
+
 # LEGAL AGREEMENT 📜
 Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. Participants assume all risk for voluntarily participating in this mathematical experiment by interacting with project tokens.   
 
@@ -277,9 +284,9 @@ Hold $GOLDSIL to get token rewards on the Full moons, and at random times.
 
 ## [🟡🔗 Get GOLDSIL LP Tokens](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=SILVER-silversilver)
 
-###  NGO Update: 
+###  NGO Update 
 
-We weren't (yet) able to secure our NGO in Peru as planned, but we are continuing in the direction of permacultural curation organization. 
+The legal process wasn't possible for us to secure our NGO in Peru as planned, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen, but still plan to once we have a physical address to comply with regulations. 
 
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
