@@ -273,8 +273,9 @@ With SILVER, we have another ratio (the SILVER Radio) to honor, and the original
 Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. Participants assume all risk for voluntarily participating in this mathematical experiment by interacting with project tokens.   
 
 # Gratitude 🙏
-Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/)
-Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.pro/) DeFi reward Pools by 
+Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/). 
+Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.pro/)   
+DeFi reward contracts by [bludac.io](https://bludac.io/pools/community) + tools by [r.land/blu](https://r.land/blu)
 
 # Donate 🌱
 
