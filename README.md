@@ -293,11 +293,13 @@ We'll let received donations and proceeds from GOLD sales sit (and stake) in [ga
 
 # Get $SILVER
 
-## 💰🤑 DeFi 🟡 [WAX/GOLD SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver)
+## 💰🤑 DeFi 🌑 [WAX/SILVER SWAP](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver)
 
-## 🚀📈 Market Trading 🟡 [WAX/GOLD MARKET](https://wax.alcor.exchange/trade/silver-silversilver_wax-eosio.token)
+## 🚀📈 Market Trading 🌑 [WAX/SILVER MARKET](https://wax.alcor.exchange/trade/silver-silversilver_wax-eosio.token)
 
   
+# [🌕 GOLD / 🌑 SILVER SPOT MARKET](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold)
+
 # 📢  NEW 💰 $GOLDSIL LP token rewards  
  
 Hold $GOLDSIL to get token rewards on the Full moons, and at random times. 
