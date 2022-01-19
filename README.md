@@ -1,4 +1,4 @@
-# GOLD + SILVER on WAX
+# 🌕 GOLD + 🌑 SILVER on WAX
 Learn about the GOLD + SILVER tokens on WAX Blockchain 
 
 ## Quick Links
@@ -11,16 +11,16 @@ Learn about the GOLD + SILVER tokens on WAX Blockchain
 100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth.  
 
 
-# 🟡 GOLD Economic Brief
+# 🌕 GOLD Economic Brief
 
 ## Tech
 `eosio.token`-based [goldgoldgold](https://wax.bloks.io/account/goldgoldgold) on WAX blockchain
 
 ## Tokens
 
-🟡 GOLD is divisible up to 4 decimal places.
+🌕 GOLD is divisible up to 4 decimal places.
 
-## Max Supply = # Grams of Gold on Earth = 244,000,000,000 🟡 GOLD 
+## Max Supply = # Grams of Gold on Earth = 244,000,000,000 🌕 GOLD 
 
 
 # [Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
@@ -52,9 +52,9 @@ GOLD was created as a means to catalyze re-incorporation of the human collective
 This connecting spirit, including our shared goal of reaching another Golden Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
 
 
-## Golden, Silver, and Bronze Moons 🌝🌚
+## Gold + Silver 🌝🌚
 
-**Golden Moons** celebrate $GOLD token reaching a certian price in WAX. (reward for all holders  + celebration)
+**Golden Moons** celebrate $GOLD token reaching a certian price in WAX. (NFT reward for top holders after 🌕 15)
 
 **Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are still being finalized, but you will get some payment every full moon of you have GOLD or GOLDSIL in your account. 
 
@@ -62,7 +62,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 ![LP rewards were added a few months later](images/gold-moon-example.png)
 
-**Bronze Moons** are yet to be announced, but will also be a reward for active economy participants. 
+
 
 # Silver LP Rewards on [bludac.io](https://bludac.io/pools/community) + [r.land/blu](https://r.land/blu)
 
@@ -131,7 +131,7 @@ Community Tokens may change every quarter. Main + Family reward tokens can chang
 
 # The 54 Golden Moons 🧑‍🚀
 
-*last two digits are insignificant*
+*last two digits are insignificant until moon 27*
 
 | Moon | GOLD Price (in WAX) | 🚀 | 
 | --- | --- | --- | 
