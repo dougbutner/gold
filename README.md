@@ -198,7 +198,7 @@ Community Tokens may change every quarter. Main + Family reward tokens can chang
 
 This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in the defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
-This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund. Douglas has also ammassed a GOLD fortune, which will be used in part as a rewards base for experimental DeFi activities.    
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund. 
 
 Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
 
