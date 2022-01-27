@@ -1,15 +1,16 @@
 # 🌕 GOLD + 🌑 SILVER on WAX
-Learn about the GOLD + SILVER tokens on WAX Blockchain 
+Learn about the GOLD + SILVER tokens on WAX Blockchain 🌗
 
 ## Quick Links
-[Project Website](http://tomoonfor.earth) | [Market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) | [Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [Telegram](https://t.me/ToMoonForEarth)
+[Project Website](http://tomoonfor.earth) | [🌗 Market](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold) | [🌕 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [🌑 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver) | [Telegram](https://t.me/ToMoonForEarth)
 
 # [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture charities with metalic-math coins
 
-## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. Holding GOLD offers returns in SILVER, and SILVER is a LP rewards token that can be [staked for more rewards](https://r.land/blu). (Details below)
+## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. Holding GOLD attracts lunarly gifts in SILVER, and SILVER is a LP rewards token that can be [staked for SILVER rewards](https://r.land/blu) via [Bludac](https://bludac.io/pools/community). (Details below)
 
-100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forrests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth.  
+100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
 
+> To transmute and regrow, alchemy is employed using sacred-geometric mathematical experimentation.  
 
 # 🌕 GOLD Economic Brief
 
@@ -100,7 +101,7 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 | 23Q1 | TBD | 
 
 
-> Algorithm may be updated for 22Q2. 
+> Algorithm may be updated for 22Q2 + beyond 
 
 ## Supported LP pools (2022)
 
@@ -125,11 +126,13 @@ For daily SILVER rewards, get LP tokens on Alcor with following links then stake
 
 Project Owner/Rep? Interested? Open a URTOKEN/SILVER pool + [Let us know](https://t.me/ToMoonForEarth)
  
-Community Tokens may change every quarter. Main + Family reward tokens can change every year, and be added (but not removed) each quarter.
+> * - Community Tokens may change every quarter. Main tokens should change every year, and be changed each quarter.
  
 
 
 # The 54 Golden Moons 🧑‍🚀
+
+Golden Moons represent a collective goal - reaching a GOLD price that's on the mirrored Fibonacci sell orders. Starting with Moon 16, we'll send out a NFT to the top GOLD economy participants + GOLD holders for each moon we land on. To land on the moon requires areacing above the price on the spot market, that is, clearing the sell order the moon represents, and thus raising that much funding.
 
 *last two digits are insignificant until moon 27*
 
@@ -200,7 +203,9 @@ This account placed the sell orders [below] except where it would be less than .
 
 This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund. 
 
-Sell orders are according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
+Because GOLD "started from the bottom" of the possible WAX price, there's been interesting mechanics even early in the experiment.
+
+Sell orders were/are listed according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
 
 # WAX / GOLD
 
@@ -263,10 +268,12 @@ Sell orders are according to the Golden Ratio, as approximated by the Fibonacci 
 
 
 # How is this raising money for permaculture? 🤔🌳
-GOLD was released to the public very cheaply, that is, below the minimum spot trading price of 0.00000001 WAX / GOLD. While this didn't help us raise initial funds, it did create a DeFi game that anyone could play for a few pennies. Currently, the gaialovefund account has 36 billion GOLD that was donated back, and the plan is to create a win-win-win economy using GOLD and SILVER and eventually list this GOLD slowly on the spot market starting at the price of .00001, giving us over 100k USD to put towards permaculture. We kind of messed up selling GOLD so cheaply, but we also made an opportunity for more people to benefit in an amazing way. 
+GOLD was released to the public very cheaply, that is, below the minimum spot trading price of 0.00000001 WAX / GOLD. While this didn't help us raise initial funds, it did create a DeFi game that anyone could play for a fraction of a WAX. Currently, the gaialovefund account has 36 billion GOLD that was donated back, and the plan now is to create a win-win-win economy using GOLD and SILVER and list this GOLD slowly on the spot market starting at the price of .00001, giving us over 200k WAX to put towards permaculture. We messed up the fundraising by selling GOLD so cheaply, but we also made an opportunity for more people to benefit in an amazing way. 
 
-# Can SILVER be sold to raise money for permaculture too? 🤔🌳
-With SILVER, we have another ratio (the SILVER Radio) to honor, and the original plan was to offer SILVER similarly to GOLD on the market using this new ratio.  With the failure of GOLD to raise more than 200 USD, we have decided to keep SILVER as a LP rewards token and decide later if/when there will be a public sale of SILVER. If there is a sale, it will be announced on our Telegram first.  
+# Can SILVER be sold to raise money for permaculture too?
+With SILVER, we have another ratio (the SILVER Radio) to honor, and the original plan was to offer SILVER similarly to GOLD on the market using this new ratio.  With the failure of GOLD to raise more than 200 USD, we have decided to keep SILVER as a LP rewards token and decide later if/when there will be a public sale of SILVER. By using SILVER to benefit cXc and GOLD lp, the economy is richer, and this may make a better opportunity to help other projects as well, as [Bludac](https://r.land/blu) has. 
+
+If there is a sale, it will be announced on our [Telegram](https://t.me/ToMoonForEarth) first.  
 
 
 # LEGAL AGREEMENT 📜
@@ -300,9 +307,9 @@ We'll let received donations and proceeds from GOLD sales sit (and stake) in [ga
   
 # [🌕 GOLD / 🌑 SILVER SPOT MARKET](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold)
 
-# 📢  NEW 💰 $GOLDSIL LP token rewards  
+# 🌗 $GOLDSIL LP token rewards  
  
-Hold $GOLDSIL to get token rewards on the Full moons, and at random times. 
+Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](https://bludac/pools/community). 
 
 ## [🟡🔗 Get GOLDSIL LP Tokens](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=SILVER-silversilver)
 
