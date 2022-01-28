@@ -132,7 +132,7 @@ Project Owner/Rep? Interested? Open a URTOKEN/SILVER pool + [Let us know](https:
 
 # The 54 Golden Moons 🧑‍🚀
 
-Golden Moons represent a collective goal - reaching a GOLD price that's on the mirrored Fibonacci sell orders. Starting with Moon 16, we'll send out a NFT to the top GOLD economy participants + GOLD holders for each moon we land on. To land on the moon requires areacing above the price on the spot market, that is, clearing the sell order the moon represents, and thus raising that much funding.
+Golden Moons represent a collective goal - clearing one mirrored Fibonacci sell order. Starting with Moon 16, we'll drop a NFT to the top GOLD economy participants + GOLD holders for each moon we land on. To land on the moon requires reaching above the moon price on the spot market, that is, clearing the sell order the moon represents, and thus raising that much funding.
 
 *last two digits are insignificant until moon 27*
 
@@ -277,7 +277,7 @@ If there is a sale, it will be announced on our [Telegram](https://t.me/ToMoonFo
 
 
 # LEGAL AGREEMENT 📜
-Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. Participants assume all risk for voluntarily participating in this mathematical experiment by interacting with project tokens.   
+Purchasing GOLD does not legally qualify as a donation, and is not tax-deductable. No promise or expectation of returns for GOLD holders. Participants assume all risk for voluntarily participating in this charity fundraising experiment by interacting with project tokens.   
 
 # Gratitude 🙏
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/). 
@@ -290,7 +290,7 @@ Donations to [gaialovefund](https://wax.bloks.io/account/gaialovefund) are appre
 
 # Promise 🔐
 
-We'll let received donations and proceeds from GOLD sales sit (and stake) in [gaialovefund](https://wax.bloks.io/account/gaialovefund) until a date where we announce the formal donation. Any spendature of these funds will be announced to the public ahead of time on Telegram. 
+We'll let received donations and proceeds from GOLD sales sit (and stake) in [gaialovefund](https://wax.bloks.io/account/gaialovefund) until a date where we announce the formal donation. Any spendature of these funds will be announced to the public ahead of time on [Telegram](https://t.me/ToMoonForEarth). 
 
 # Get $GOLD
 
@@ -317,5 +317,7 @@ Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](ht
 
 The legal process wasn't possible for us to secure our NGO in Peru as planned, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen, but still plan to once we have a physical address to comply with regulations. 
 
+### The Alchemist 🧙‍♂️✨🌗
+GOLD was concieved by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and visa versa.  
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
