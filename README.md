@@ -57,7 +57,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 **Golden Moons** celebrate $GOLD token reaching a certian price in WAX. (NFT reward for top holders after 🌕 15)
 
-**Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are still being finalized, but you will get some payment every full moon of you have GOLD or GOLDSIL in your account. 
+**Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are active but still being finalized. You will get some payment every full moon of you have GOLD or GOLDSIL in your account. 
 
 ![Silver will show up in your wallet every month if you have GOLD, no claim needed](images/silver-moon-example.png)
 
