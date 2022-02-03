@@ -205,7 +205,7 @@ This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-e
 
 Because GOLD "started from the bottom" of the possible WAX price, there's been interesting mechanics even early in the experiment.
 
-Sell orders were/are listed according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. 
+Sell orders were/are listed according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. The length of this series was determined by the total supply of GOLD.
 
 # WAX / GOLD
 
@@ -315,7 +315,7 @@ Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](ht
 
 ###  NGO Update 
 
-The legal process wasn't possible for us to secure our NGO in Peru as planned, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen, but still plan to once we have a physical address to comply with regulations. 
+The legal process wasn't possible for us to secure our NGO in Peru as planned without a physical address, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen now (to raise charity funds + donate), but will move forward to a Peruvian NGO once we have land to plant ourselves. 
 
 ### The Alchemist 🧙‍♂️✨🌗
 GOLD was concieved by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and visa versa.  
