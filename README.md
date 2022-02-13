@@ -6,7 +6,7 @@ Learn about the GOLD + SILVER tokens on WAX Blockchain 🌗
 
 # [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture charities with metalic-math coins
 
-## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. Holding GOLD attracts lunarly gifts in SILVER, and SILVER is a LP rewards token that can be [staked for SILVER rewards](https://r.land/blu) via [Bludac](https://bludac.io/pools/community). (Details below)
+## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. Holding GOLD attracts lunarly gifts in SILVER, and SILVER is a LP rewards token that can be [staked for SILVER rewards](https://r.land/blu) via [Bludac](https://bludac.io). (Details below)
 
 100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
 
@@ -65,7 +65,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 
 
-# Silver LP Rewards on [bludac.io](https://bludac.io/pools/community) + [r.land/blu](https://r.land/blu)
+# Silver LP Rewards on [bludac.io](https://bludac.io) + [r.land/blu](https://r.land/blu)
 
 Starting Jan 17, 2022, there will be quarterly (90 day) pools to reward GOLD and SILVER economy participants. These pools will INCREASE in output every year and quarter, creating more long-term stability than a front-loaded LP reward token. Each year the rewards will 4X, then the next year they will restart at 2x the original reward, and 4x again throughout the year. This is planned to continue until all SILVER has been distributed, with the model remaining open to improvements.
 
@@ -105,7 +105,68 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 
 ## Supported LP pools (2022)
 
-For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.io](https://bludac.io/pools/community) or [r.land/blu](https://r.land/blu)
+For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.io](https://bludac.io) or [r.land/blu](https://r.land/blu)
+
+
+# The story behind the [pools](https://bludac.io)  
+Shared here because the UI no longer shows
+
+
+### 🌑 Quick SILVER (47m 🌑)
+
+Stake SILVER, get SILVER. Quicksilver pools reward 41.421 % of total SILVER released each period. It’s practically light speed. 🛸
+
+
+
+### 🌗 GOLD + SILVER (25m 🌑)
+
+🌕 GOLD is a Fibonacci token, 🌑 SILVER is a LP rewards token. Together we see what Golden Ratio rockets can do for our planet, and our pockets. Now which quasar are we off to?
+
+
+
+### 🌑🟡 SILVER + WAX (25m 🌑)
+
+Let’s be real. Degen space pirates will dump the dust out of this pool, so kudos to the spice-crazed warriors that enter this bloodbath. 🏴‍☠️💰May the hefty rewards ease your starward journey! 
+
+
+
+### 🌕🟡 GOLD + WAX (25m 🌑)
+
+Another bloodbath over GOLD as cold as Kelvin. Extrasolar GOLD holders who got in at the beginning of the curve hide just over the event horizon. 👾 Why didn’t I buy GOLD at 0.0000004?? 
+
+
+
+
+### 🟣🔵 PURPLE + BLUX (10m 🌑)
+
+Wait, you haven’t heard of cXc.world, the OG brainchild of the GOLD/SILVER alchemist? 🧙‍♂️ Must be from the outer rim.. 
+
+
+
+
+### 🔵🟡 BLUX + WAX (10m 🌑)
+
+Abundant BLUX is paid to cXc.world content creators for Ups received, and Evertone holders for sheer luck. No one has seen anything like it outside of Andromeda. 👽
+
+
+
+### 🟣🟡 PURPLE + WAX (10m 🌑)
+
+Scarce PURPLE is paid to top creators on cXc.world. Join this pool to lend your booster rockets to top-tier independent musicians all over Earth C-137 👩‍🎤🚀
+
+
+
+### 🌑🔵 SILVER + BLU (5m 🌑)
+
+Boss called. He said if you’re going to open all these space ports, there’s gunna be a tax. 
+
+
+### 🌕🔵 GOLD + BLU (5m 🌑)
+
+Boss know you’re working with those outer-rim pixel pushers 👾 You’ll share the spoils with the rest of the crew, or it’s a one-way trip through the airlock.  
+
+
+# 🔗 Get LP tokens to stake 
 
 **Main Rewards Pools (Largest Reward pools)**
 
