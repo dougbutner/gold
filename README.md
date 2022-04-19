@@ -55,7 +55,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 ## Gold + Silver 🌝🌚
 
-**Golden Moons** celebrate $GOLD token reaching a certian price in WAX. (NFT reward for top holders after 🌕 15)
+**Golden Moons** celebrate $GOLD token reaching a certain price in WAX. (NFT reward for top holders after 🌕 15)
 
 **Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are active but still being finalized. You will get some payment every full moon of you have GOLD or GOLDSIL in your account. 
 
@@ -64,8 +64,10 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 ![LP rewards were added a few months later](images/gold-moon-example.png)
 
 
+> New Rewards: We've just added a single-token-staking GOLD to the new model below. As this makes the old system obsolete, we've indefinitely paused all of the old rewards.
 
-# Silver LP Rewards on [bludac.io](https://bludac.io) + [r.land/blu](https://r.land/blu)
+
+# Silver LP Rewards on [bludac.io](https://bludac.io) 
 
 Starting Jan 17, 2022, there will be quarterly (90 day) pools to reward GOLD and SILVER economy participants. These pools will INCREASE in output every year and quarter, creating more long-term stability than a front-loaded LP reward token. Each year the rewards will 4X, then the next year they will restart at 2x the original reward, and 4x again throughout the year. This is planned to continue until all SILVER has been distributed, with the model remaining open to improvements.
 
@@ -94,8 +96,8 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 
 | Period | Quicksilver Pool Totals |
 | --- | --- | 
-| 22Q1 | 115m x 0.41421 = 47,634,559.6726 |  
-| 22Q2 | TBD | 
+| 22Q1 | 47.6m|  
+| 22Q2 | 115.9m | 
 | 22Q3 | TBD | 
 | 22Q4 | TBD | 
 | 23Q1 | TBD | 
@@ -112,56 +114,60 @@ For daily SILVER rewards, get LP tokens on Alcor with following links then stake
 Shared here because the UI no longer shows
 
 
-### 🌑 Quick SILVER (47m 🌑)
+### 🌑 Quick SILVER (116m 🌑)
 
 Stake SILVER, get SILVER. Quicksilver pools reward 41.421 % of total SILVER released each period. It’s practically light speed. 🛸
 
 
+🌕 GOLD Rush (50m 🌑) NEW
 
-### 🌗 GOLD + SILVER (25m 🌑)
+Stake GOLD get SILVER. This pools is shiny + new, so expect a rush from all quadrants. 🧑‍🎓🌕🌑 github.com/dougbutner/gold
+
+
+### 🌗 GOLD + SILVER (50m 🌑)
 
 🌕 GOLD is a Fibonacci token, 🌑 SILVER is a LP rewards token. Together we see what Golden Ratio rockets can do for our planet, and our pockets. Now which quasar are we off to?
 
 
 
-### 🌑🟡 SILVER + WAX (25m 🌑)
+### 🌑🟡 SILVER + WAX (50m 🌑)
 
 Let’s be real. Degen space pirates will dump the dust out of this pool, so kudos to the spice-crazed warriors that enter this bloodbath. 🏴‍☠️💰May the hefty rewards ease your starward journey! 
 
 
 
-### 🌕🟡 GOLD + WAX (25m 🌑)
+### 🌕🟡 GOLD + WAX (20m 🌑)
 
 Another bloodbath over GOLD as cold as Kelvin. Extrasolar GOLD holders who got in at the beginning of the curve hide just over the event horizon. 👾 Why didn’t I buy GOLD at 0.0000004?? 
 
 
 
 
-### 🟣🔵 PURPLE + BLUX (10m 🌑)
+### 🟣🔵 PURPLE + BLUX (20m 🌑)
 
 Wait, you haven’t heard of cXc.world, the OG brainchild of the GOLD/SILVER alchemist? 🧙‍♂️ Must be from the outer rim.. 
 
 
 
 
-### 🔵🟡 BLUX + WAX (10m 🌑)
+### 🔵🟡 BLUX + WAX (20m 🌑)
 
 Abundant BLUX is paid to cXc.world content creators for Ups received, and Evertone holders for sheer luck. No one has seen anything like it outside of Andromeda. 👽
 
 
 
-### 🟣🟡 PURPLE + WAX (10m 🌑)
+### 🟣🟡 PURPLE + WAX (20m 🌑)
 
 Scarce PURPLE is paid to top creators on cXc.world. Join this pool to lend your booster rockets to top-tier independent musicians all over Earth C-137 👩‍🎤🚀
 
 
 
-### 🌑🔵 SILVER + BLU (5m 🌑)
+### 🌑🔵 SILVER + BLU (10m 🌑)
 
 Boss called. He said if you’re going to open all these space ports, there’s gunna be a tax. 
 
 
-### 🌕🔵 GOLD + BLU (5m 🌑)
+### 🌕🔵 GOLD + BLU (10m 🌑)
 
 Boss know you’re working with those outer-rim pixel pushers 👾 You’ll share the spoils with the rest of the crew, or it’s a one-way trip through the airlock.  
 
@@ -334,7 +340,15 @@ GOLD was released to the public very cheaply, that is, below the minimum spot tr
 # Can SILVER be sold to raise money for permaculture too?
 With SILVER, we have another ratio (the SILVER Radio) to honor, and the original plan was to offer SILVER similarly to GOLD on the market using this new ratio.  With the failure of GOLD to raise more than 200 USD, we have decided to keep SILVER as a LP rewards token and decide later if/when there will be a public sale of SILVER. By using SILVER to benefit cXc and GOLD lp, the economy is richer, and this may make a better opportunity to help other projects as well, as [Bludac](https://r.land/blu) has. 
 
-If there is a sale, it will be announced on our [Telegram](https://t.me/ToMoonForEarth) first.  
+If there is a sale of the final tokens (years away), it will be announced on our [Telegram](https://t.me/ToMoonForEarth) first.  
+
+
+# Informal Changelog
+
+
+- SILVER pools added as new reward model
+- Single-staking GOLD pool added
+- Old monthly rewards removed 
 
 
 # LEGAL AGREEMENT 📜
@@ -379,6 +393,6 @@ Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](ht
 The legal process wasn't possible for us to secure our NGO in Peru as planned without a physical address, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen now (to raise charity funds + donate), but will move forward to a Peruvian NGO once we have land to plant ourselves. 
 
 ### The Alchemist 🧙‍♂️✨🌗
-GOLD was concieved by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and visa versa.  
+GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and visa versa.  
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
