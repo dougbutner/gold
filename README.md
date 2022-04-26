@@ -6,7 +6,7 @@ Learn about the GOLD + SILVER tokens on WAX Blockchain 🌗
 
 # [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture charities with metalic-math coins
 
-## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. Holding GOLD attracts lunarly gifts in SILVER, and SILVER is a LP rewards token that can be [staked for SILVER rewards](https://r.land/blu) via [Bludac](https://bludac.io). (Details below)
+## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. GOLD is available on [Alcor](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) and also given to the top 100 collectors of [cXc Music NFTs](https://neftyblocks.com/c/cxcmusicnfts) by NFTs held. SILVER is a LP rewards token that can be [staked for more SILVER](https://bludac.io). $SILVER rewards GOLD, [PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token), and [BLUX](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token) pairs.  (Details below)
 
 100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
 
@@ -107,7 +107,7 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 
 ## Supported LP pools (2022)
 
-For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.io](https://bludac.io) or [r.land/blu](https://r.land/blu)
+For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.io](https://bludac.io).
 
 
 # The story behind the [pools](https://bludac.io)  
@@ -268,11 +268,11 @@ Golden Moons represent a collective goal - clearing one mirrored Fibonacci sell 
 
 This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in the defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
-This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund, and remains the second largest holder behind the fund. 
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund.  
 
 Because GOLD "started from the bottom" of the possible WAX price, there's been interesting mechanics even early in the experiment.
 
-Sell orders were/are listed according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. The length of this series was determined by the total supply of GOLD.
+Sell orders were/are listed according to the Golden Ratio, as approximated by the Fibonacci series. We used mirrored Fibonacci series (below) to determine the market price of GOLD. The length of this series segment was determined by the total supply of GOLD.
 
 # WAX / GOLD
 
@@ -338,9 +338,9 @@ Sell orders were/are listed according to the Golden Ratio, as approximated by th
 GOLD was released to the public very cheaply, that is, below the minimum spot trading price of 0.00000001 WAX / GOLD. While this didn't help us raise initial funds, it did create a DeFi game that anyone could play for a fraction of a WAX. Currently, the gaialovefund account has 36 billion GOLD that was donated back, and the plan now is to create a win-win-win economy using GOLD and SILVER and list this GOLD slowly on the spot market starting at the price of .00001, giving us over 200k WAX to put towards permaculture. We messed up the fundraising by selling GOLD so cheaply, but we also made an opportunity for more people to benefit in an amazing way. 
 
 # Can SILVER be sold to raise money for permaculture too?
-With SILVER, we have another ratio (the SILVER Radio) to honor, and the original plan was to offer SILVER similarly to GOLD on the market using this new ratio.  With the failure of GOLD to raise more than 200 USD, we have decided to keep SILVER as a LP rewards token and decide later if/when there will be a public sale of SILVER. By using SILVER to benefit cXc and GOLD lp, the economy is richer, and this may make a better opportunity to help other projects as well, as [Bludac](https://r.land/blu) has. 
+With SILVER, we have another ratio (the SILVER Radio) to honor, and the original plan was to offer SILVER similarly to GOLD on the market using this new ratio. With the failure of GOLD to raise more than 200 USD, we have decided to keep SILVER as a LP rewards token. We do not plan to have a sale of SILVER, nor will we ever sell any of the project's SILVER reserves on the market. By using SILVER to benefit [cXc](https://linktr/ee/cxc.world) and GOLD lp, the economy is richer, and this may make a better opportunity to help other projects as well, as [Bludac](https://r.land/blu) has. 
 
-If there is a sale of the final tokens (years away), it will be announced on our [Telegram](https://t.me/ToMoonForEarth) first.  
+Listing of the final tokens (probably years away), it will be announced on our [Telegram](https://t.me/ToMoonForEarth) first, and be on the [spot market](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) as to maintain price on market. This way, we can slowly raise the final money instead of removing value from the economy using [swap](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=GOLD-goldgoldgold)
 
 
 # Informal Changelog
@@ -349,6 +349,8 @@ We keep a detailed changelog through GIT
 - SILVER pools added as new reward model
 - Single-staking GOLD pool added
 - Old monthly rewards removed 
+- GOLD final fundraising listing clarified
+- Removed defunct r.land links
 
 
 # LEGAL AGREEMENT 📜
