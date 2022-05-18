@@ -59,10 +59,6 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 
 **Silver Moons** are payments sent out every IRL Full Moon in SILVER to participants in the GOLD economy. First Silver Moon payment went out October, 2021 for the 'Hunter' Full Moon. Rewards are active but still being finalized. You will get some payment every full moon of you have GOLD or GOLDSIL in your account. 
 
-![Silver will show up in your wallet every month if you have GOLD, no claim needed](images/silver-moon-example.png)
-
-![LP rewards were added a few months later](images/gold-moon-example.png)
-
 
 > New Rewards: We've just added a single-token-staking GOLD to the new model below. As this makes the old system obsolete, we've indefinitely paused all of the old rewards.
 
