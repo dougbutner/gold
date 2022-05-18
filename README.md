@@ -386,7 +386,7 @@ We'll let received donations and proceeds from GOLD sales sit (and stake) in [ga
 
 # 🌗 $GOLDSIL LP token rewards  
  
-Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](https://bludac/pools/community). 
+Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](https://bludac.io). 
 
 ## [🟡🔗 Get GOLDSIL LP Tokens](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=SILVER-silversilver)
 
@@ -395,6 +395,6 @@ Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](ht
 The legal process wasn't possible for us to secure our NGO in Peru as planned without a physical address, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen now (to raise charity funds + donate), but will move forward to a Peruvian NGO once we have land to plant ourselves. 
 
 ### The Alchemist 🧙‍♂️✨🌗
-GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and visa versa.  
+GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and vise versa.  
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
