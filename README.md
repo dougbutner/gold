@@ -4,7 +4,7 @@ Learn about the GOLD + SILVER tokens on WAX Blockchain 🌗
 ## Quick Links
 [Project Website](http://tomoonfor.earth) | [🌗 Market](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold) | [🌕 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [🌑 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver) | [Telegram](https://t.me/ToMoonForEarth)
 
-# [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture charities with metalic-math coins
+# [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture with metalic-math coins
 
 ## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. GOLD is available on [Alcor](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) and also given to the top 100 collectors of [cXc Music NFTs](https://neftyblocks.com/c/cxcmusicnfts) by NFTs held. SILVER is a LP rewards token that can be [staked for more SILVER](https://bludac.io). $SILVER rewards GOLD, [PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token), and [BLUX](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token) pairs.  (Details below)
 
@@ -264,7 +264,7 @@ Golden Moons represent a collective goal - clearing one mirrored Fibonacci sell 
 
 This account placed the sell orders [below] except where it would be less than .00000001 WAX per gold, that GOLD was instead placed in the defi [swap](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=WAX-eosio.token).
 
-This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund.  
+This lead to incredibly [cheap GOLD](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) for early buyers, as was intended by the model, with one fortunate account picking up +30% total supply. Luckily, they dumped early to the swap, and organizer Douglas bought back 36b (15% supply) of GOLD to donate to gaialovefund. ([Tx 1](https://wax.bloks.io/transaction/c28122681068126e06ada91daec02ec1ea0ca57c3e5fcd6ff094797a35030137), [Tx 2](https://wax.bloks.io/transaction/40fe8c8fccdc8825deb823cdb2f5a3eba22957d1dbb7f4943e1cdfae6954d5cb))  
 
 Because GOLD "started from the bottom" of the possible WAX price, there's been interesting mechanics even early in the experiment.
 
@@ -391,6 +391,8 @@ Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](ht
 The legal process wasn't possible for us to secure our NGO in Peru as planned without a physical address, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen now (to raise charity funds + donate), but will move forward to a Peruvian NGO once we have land to plant ourselves. 
 
 ### The Alchemist 🧙‍♂️✨🌗
-GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through rewarding participants, and vise versa.  
+GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through [rewarding participants](https://bludac.io), and vise versa.  
+
+![Douglas raising Earth energies to meet Sky energies](https://raw.githubusercontent.com/dougbutner/gold/main/images/Pyramid%20Magic%20Alchemist%20Druid%20Douglas%20Butner.jpeg)
 
 [Join in on Telegram](https://t.me/ToMoonForEarth)
