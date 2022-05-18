@@ -24,24 +24,24 @@ Learn about the GOLD + SILVER tokens on WAX Blockchain 🌗
 ## Max Supply = # Grams of Gold on Earth = 244,000,000,000 🌕 GOLD 
 
 
-# [Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+# [Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/gold.png)
 
-![GOLD Token Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+![GOLD Token Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/gold.png)
 
 
-# 🪙 SILVER Economic Brief
+# 🌑 SILVER Economic Brief
 
 ## Tech
 `eosio.token`-based [silversilver](https://wax.bloks.io/account/silversilver) on WAX blockchain
 
 ## Tokens
 
-🪙 SILVER is divisible up to 4 decimal places.
+🌑 SILVER is divisible up to 4 decimal places.
 
-## Max Supply = # Grams of Silver on Earth = 1,740,000,000,000 SILVER 🪙
+## Max Supply = # Grams of Silver on Earth = 1,740,000,000,000 SILVER 🌑
 
 
-# [Logo](https://ipfs.io/ipfs/QmZNHyxSHvGiJHLKWGa3dxpZazMoMDWJfxwaPmULkE8Yvm)
+# [Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/silver.png)
 
 ![SILVER Token Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/silver.png)
 
