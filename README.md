@@ -6,7 +6,7 @@ Learn about the GOLD + SILVER tokens on WAX Blockchain 🌗
 
 # [#GOLDTRIBE](https://ctt.ac/5vVnB) supports Permaculture with metalic-math coins
 
-## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. GOLD is available on [Alcor](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) and also given to the top 100 collectors of [cXc Music NFTs](https://neftyblocks.com/c/cxcmusicnfts) by NFTs held. SILVER is a LP rewards token that can be [staked for more SILVER](https://bludac.io). $SILVER rewards GOLD, [PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token), and [BLUX](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token) pairs.  (Details below)
+## These metalic-math coins (crowned by the GOLD token) offer novelty as the first Fibbonacci series-infused currency. GOLD is available on [Alcor](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) and also given to the top 100 collectors of [cXc Music NFTs](https://neftyblocks.com/c/cxcmusicnfts) by NFTs held. SILVER is a LP rewards token that can be [staked for more SILVER](https://bludac.xyz). $SILVER rewards GOLD, [PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token), and [BLUX](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token) pairs.  (Details below)
 
 100% of the proceeds of our token sale + donations received will go to charity via the [gaialovefund](https://wax.bloks.io/account/gaialovefund). We'll be giving 100% of proceeds to Permaculture projects, eco-charities + community projects like food forests, city gardens, etc. The idea is to change some of the bad juju from precious metal extraction to something to help Earth. 
 
@@ -103,10 +103,10 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 
 ## Supported LP pools (2022)
 
-For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.io](https://bludac.io).
+For daily SILVER rewards, get LP tokens on Alcor with following links then stake them on [bludac.xyz](https://bludac.xyz).
 
 
-# The story behind the [pools](https://bludac.io)  
+# The story behind the [pools](https://bludac.xyz)  
 Shared here because the UI no longer shows
 
 
@@ -355,7 +355,7 @@ Purchasing GOLD does not legally qualify as a donation, and is not tax-deductabl
 # Gratitude 🙏
 Icons made by [Freepik](https://www.freepik.com/) from [flaticon](https://www.flaticon.com/). 
 Markets + DeFi on [Alcor](https://alcor.exchange) made by [Avral](https://avral.pro/)   
-DeFi reward contracts by [bludac.io](https://bludac.io/pools/community) + tools by [r.land/blu](https://r.land/blu)
+DeFi reward contracts by [bludac.xyz](https://bludac.xyz) 
 
 # Donate 🌱
 
@@ -382,7 +382,7 @@ We'll let received donations and proceeds from GOLD sales sit (and stake) in [ga
 
 # 🌗 $GOLDSIL LP token rewards  
  
-Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](https://bludac.io). 
+Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](https://bludac.xyz). 
 
 ## [🟡🔗 Get GOLDSIL LP Tokens](https://wax.alcor.exchange/swap?output=GOLD-goldgoldgold&input=SILVER-silversilver)
 
@@ -391,7 +391,7 @@ Hold $GOLDSIL to get token rewards on the Full moons, or stake it on [bludac](ht
 The legal process wasn't possible for us to secure our NGO in Peru as planned without a physical address, but we are continuing in the direction of permacultural curation organization. We really don't need an NGO to make this happen now (to raise charity funds + donate), but will move forward to a Peruvian NGO once we have land to plant ourselves. 
 
 ### The Alchemist 🧙‍♂️✨🌗
-GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through [rewarding participants](https://bludac.io), and vise versa.  
+GOLD was conceived by [Douglas](https://douglas.life), creator of WAX / HIVE dapp [cXc.world](https://cxc.world). cXc and GOLD are sister projects, and in addition to raising money for Permaculture, GOLD and SILVER serve to enrich the cXc economy through [rewarding participants](https://bludac.xyz), and vise versa.  
 
 ![Douglas Butner at Chichen Itza raising Earth energies to meet Sky energies](https://raw.githubusercontent.com/dougbutner/gold/main/images/Pyramid%20Magic%20Alchemist%20Druid%20Douglas%20Butner.jpeg)
 > Douglas raising Earth energies to meet Sky energies at Chichen Itza
