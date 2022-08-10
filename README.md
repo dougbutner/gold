@@ -63,7 +63,7 @@ This connecting spirit, including our shared goal of reaching another Golden Moo
 > New Rewards: We've just added a single-token-staking GOLD to the new model below. As this makes the old system obsolete, we've indefinitely paused all of the old rewards.
 
 
-# Silver LP Rewards on [bludac.io](https://bludac.io) 
+# Silver LP Rewards on [bludac.xyz](https://bludac.xyz) 
 
 Starting Jan 17, 2022, there will be quarterly (90 day) pools to reward GOLD and SILVER economy participants. These pools will INCREASE in output every year and quarter, creating more long-term stability than a front-loaded LP reward token. Each year the rewards will 4X, then the next year they will restart at 2x the original reward, and 4x again throughout the year. This is planned to continue until all SILVER has been distributed, with the model remaining open to improvements.
 
@@ -94,7 +94,7 @@ Each period, a final "Stake SILVER for SILVER" pool is added to make the math Ma
 | --- | --- | 
 | 22Q1 | 47.6m|  
 | 22Q2 | 115.9m | 
-| 22Q3 | TBD | 
+| 22Q3 | 173.96m | 
 | 22Q4 | TBD | 
 | 23Q1 | TBD | 
 
